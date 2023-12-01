@@ -1,15 +1,14 @@
 class Pessoa {
 
-    public string Nome {get;set;}
-    public DateTime DataDeNascismento {get;set;}
-    public int CPF {get;set;}
+    public string Nome { get; set; }
+    public DateTime DataDeNascimento { get; set; }
+    public int CPF { get; set; }
 
-     public int CalcularIdade()
+    public int CalcularIdade()
     {
         DateTime dataAtual = DateTime.Now;
         int idade = dataAtual.Year - DataDeNascimento.Year;
 
-        
         if (dataAtual.Month < DataDeNascimento.Month || (dataAtual.Month == DataDeNascimento.Month && dataAtual.Day < DataDeNascimento.Day))
         {
             idade--;
@@ -19,37 +18,35 @@ class Pessoa {
     }
 }
 class Advogado : Pessoa {
-    public int CNA{get;set;}
+    public int CNA { get; set; } = 0;
 
 }
 
 
 class Cliente : Pessoa {
-    public string EstadoCivil{get;set;}
+    public string EstadoCivil { get; set; }
 }
-
-
 
 
 class Escritorio {
     List<Advogado> advogados = new List<Advogado>();
-    List<Cliente> clientes= new List<Cliente>();
+    List<Cliente> clientes = new List<Cliente>();
 
     public bool AdicionarAdvogado(Advogado advogado)
-{
-
-    if (!advogados.Exists(a => a.CPF == advogado.CPF) && !advogados.Exists(a => a.CNA == advogado.CNA))
     {
-        advogados.Add(advogado);
-        return true;
+
+        if (!advogados.Exists(a => a.CPF == advogado.CPF) && !advogados.Exists(a => a.CNA == advogado.CNA))
+        {
+            advogados.Add(advogado);
+            return true;
+        }
+        return false;
     }
-    return false;
-}
 
 
     public void MostrarAdvogados()
         {
-            Console.WriteLine("Advogados no escritório:");
+            Console.WriteLine("Advogados no escritorio:");
             foreach (var advogado in advogados)
             {
                 Console.WriteLine($"Nome: {advogado.Nome}, CPF: {advogado.CPF}, CNA: {advogado.CNA}");
@@ -59,17 +56,18 @@ class Escritorio {
 
 
 
-class program{
+class program
+{
 
 static void Main() {
 
- Escritorio escritorio = new Escritorio();
+    Escritorio escritorio = new Escritorio();
 
-        Advogado advogado1 = new Advogado { Nome = "João", DataDeNascimento = new DateTime.TryParse(1985, 5, 15), CPF = 123456789, CNA = 98765 };
-        escritorio.AdicionarAdvogado(advogado1);
+    Advogado advogado1 = new Advogado { Nome = "João", DataDeNascimento = new DateTime.TryParse(1985, 5, 15), CPF = 123456789, CNA = 98765 };
+    escritorio.AdicionarAdvogado(advogado1);
 
-        escritorio.MostrarAdvogados();
+    escritorio.MostrarAdvogados();
 
-    }
+}
 
 }
