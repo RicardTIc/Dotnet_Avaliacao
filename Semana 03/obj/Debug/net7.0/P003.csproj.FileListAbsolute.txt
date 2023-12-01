@@ -1,0 +1,15 @@
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\bin\Debug\net7.0\P003.exe
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\bin\Debug\net7.0\P003.deps.json
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\bin\Debug\net7.0\P003.runtimeconfig.json
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\bin\Debug\net7.0\P003.dll
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\bin\Debug\net7.0\P003.pdb
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\obj\Debug\net7.0\P003.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\obj\Debug\net7.0\P003.AssemblyInfoInputs.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\obj\Debug\net7.0\P003.AssemblyInfo.cs
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\obj\Debug\net7.0\P003.csproj.CoreCompileInputs.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\obj\Debug\net7.0\P003.sourcelink.json
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\obj\Debug\net7.0\P003.dll
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\obj\Debug\net7.0\refint\P003.dll
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\obj\Debug\net7.0\P003.pdb
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\obj\Debug\net7.0\P003.genruntimeconfig.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana 03\obj\Debug\net7.0\ref\P003.dll

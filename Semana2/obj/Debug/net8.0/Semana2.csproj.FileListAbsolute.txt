@@ -1,0 +1,21 @@
+<<<<<<< Updated upstream
+=======
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net8.0\Semana2.exe
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net8.0\Semana2.deps.json
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net8.0\Semana2.runtimeconfig.json
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net8.0\Semana2.dll
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net8.0\Semana2.pdb
+>>>>>>> Stashed changes
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net8.0\Semana2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net8.0\Semana2.AssemblyInfoInputs.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net8.0\Semana2.AssemblyInfo.cs
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net8.0\Semana2.csproj.CoreCompileInputs.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net8.0\Semana2.sourcelink.json
+<<<<<<< Updated upstream
+=======
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net8.0\Semana2.dll
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net8.0\refint\Semana2.dll
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net8.0\Semana2.pdb
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net8.0\Semana2.genruntimeconfig.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net8.0\ref\Semana2.dll
+>>>>>>> Stashed changes

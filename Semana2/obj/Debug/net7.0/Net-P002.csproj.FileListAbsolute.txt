@@ -1,0 +1,21 @@
+<<<<<<< Updated upstream
+=======
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net7.0\Net-P002.exe
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net7.0\Net-P002.deps.json
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net7.0\Net-P002.runtimeconfig.json
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net7.0\Net-P002.dll
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net7.0\Net-P002.pdb
+>>>>>>> Stashed changes
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\Net-P002.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\Net-P002.AssemblyInfoInputs.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\Net-P002.AssemblyInfo.cs
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\Net-P002.csproj.CoreCompileInputs.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\Net-P002.sourcelink.json
+<<<<<<< Updated upstream
+=======
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\Net-P002.dll
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\refint\Net-P002.dll
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\Net-P002.pdb
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\Net-P002.genruntimeconfig.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\ref\Net-P002.dll
+>>>>>>> Stashed changes

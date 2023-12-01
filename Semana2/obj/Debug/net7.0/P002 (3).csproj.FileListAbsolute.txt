@@ -1,0 +1,15 @@
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\P002 (3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\P002 (3).AssemblyInfoInputs.cache
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\P002 (3).AssemblyInfo.cs
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\P002 (3).csproj.CoreCompileInputs.cache
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\P002 (3).sourcelink.json
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net7.0\P002 (3).exe
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net7.0\P002 (3).deps.json
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net7.0\P002 (3).runtimeconfig.json
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net7.0\P002 (3).dll
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\bin\Debug\net7.0\P002 (3).pdb
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\P002 (3).dll
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\refint\P002 (3).dll
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\P002 (3).pdb
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\P002 (3).genruntimeconfig.cache
+C:\Users\cat-r\Documents\GitHub\.NET-T3\Semana2\obj\Debug\net7.0\ref\P002 (3).dll

@@ -1,0 +1,5 @@
+c:\Users\cat-r\Documents\GitHub\.NET-T3\obj\Debug\net7.0\P002.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cat-r\Documents\GitHub\.NET-T3\obj\Debug\net7.0\P002.AssemblyInfoInputs.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\obj\Debug\net7.0\P002.AssemblyInfo.cs
+c:\Users\cat-r\Documents\GitHub\.NET-T3\obj\Debug\net7.0\P002.csproj.CoreCompileInputs.cache
+c:\Users\cat-r\Documents\GitHub\.NET-T3\obj\Debug\net7.0\P002.sourcelink.json
