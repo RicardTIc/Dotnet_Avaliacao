@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cat-r\\Documents\\GitHub\\Dotnet_Avaliacao\\Dotnet_Avaliacao-3.csproj": {}
+    "c:\\Users\\cat-r\\Documents\\GitHub\\.NET-T3\\Semana 04\\ProvaIndividual.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cat-r\\Documents\\GitHub\\Dotnet_Avaliacao\\Dotnet_Avaliacao-3.csproj": {
+    "c:\\Users\\cat-r\\Documents\\GitHub\\.NET-T3\\Semana 04\\ProvaIndividual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cat-r\\Documents\\GitHub\\Dotnet_Avaliacao\\Dotnet_Avaliacao-3.csproj",
-        "projectName": "Dotnet_Avaliacao-3",
-        "projectPath": "C:\\Users\\cat-r\\Documents\\GitHub\\Dotnet_Avaliacao\\Dotnet_Avaliacao-3.csproj",
+        "projectUniqueName": "c:\\Users\\cat-r\\Documents\\GitHub\\.NET-T3\\Semana 04\\ProvaIndividual.csproj",
+        "projectName": "ProvaIndividual",
+        "projectPath": "c:\\Users\\cat-r\\Documents\\GitHub\\.NET-T3\\Semana 04\\ProvaIndividual.csproj",
         "packagesPath": "C:\\Users\\cat-r\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cat-r\\Documents\\GitHub\\Dotnet_Avaliacao\\obj\\",
+        "outputPath": "c:\\Users\\cat-r\\Documents\\GitHub\\.NET-T3\\Semana 04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cat-r\\AppData\\Roaming\\NuGet\\NuGet.Config"

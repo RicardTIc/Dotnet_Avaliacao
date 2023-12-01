@@ -1,0 +1,5 @@
+c:\Users\cat-r\Documents\GitHub\Dotnet_Avaliacao\Semana 04\obj\Debug\net7.0\ProvaIndividual.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cat-r\Documents\GitHub\Dotnet_Avaliacao\Semana 04\obj\Debug\net7.0\ProvaIndividual.AssemblyInfoInputs.cache
+c:\Users\cat-r\Documents\GitHub\Dotnet_Avaliacao\Semana 04\obj\Debug\net7.0\ProvaIndividual.AssemblyInfo.cs
+c:\Users\cat-r\Documents\GitHub\Dotnet_Avaliacao\Semana 04\obj\Debug\net7.0\ProvaIndividual.csproj.CoreCompileInputs.cache
+c:\Users\cat-r\Documents\GitHub\Dotnet_Avaliacao\Semana 04\obj\Debug\net7.0\ProvaIndividual.sourcelink.json
